@@ -1,0 +1,53 @@
+PROJECT 1: PERSONAL EXPENSE TRACKER
+====================================
+
+REAL-WORLD PROBLEM:
+-------------------
+Every day we spend money on food, travel, shopping, bills, etc.
+Create a program that records expenses and generates a spending report.
+
+FEATURES:
+---------
+1. Add expense
+2. View all expenses
+3. Search expense by category
+4. Calculate total expense
+5. Calculate today's expense
+6. Find highest expense
+7. Find lowest expense
+8. Category-wise total
+9. Monthly total
+10. Delete expense
+11. Save expenses to CSV
+12. Load expenses from CSV
+13. Handle invalid input
+
+DATA:
+-----
+Each expense can contain:
+
+date
+category
+description
+amount
+
+Example:
+
+2026-10-03,Food,Breakfast,80
+2026-10-03,Travel,Bus,40
+2026-10-03,Food,Lunch,120
+
+MASTER CHALLENGE:
+-----------------
+Create a budget.
+
+Example:
+Monthly budget = 30000
+
+Show:
+
+Total spent
+Remaining budget
+Percentage used
+Highest spending category
+Warning if budget exceeds 80%

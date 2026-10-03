@@ -1,0 +1,52 @@
+03-10-2026|travel|travelled from chennai to bangalore office trip by car |4500
+03-10-2026|food|dinner eat at taj hotel|2000
+03-10-2026|travel|travelled from chennai to bangalore office trip by car|4500
+03-10-2026|food|dinner eat at taj hotel|2000
+04-10-2026|food|breakfast at local hotel|250
+04-10-2026|travel|cab from hotel to office|650
+04-10-2026|food|lunch at office restaurant|450
+04-10-2026|shopping|purchased office shirt|1200
+05-10-2026|travel|auto fare to railway station|180
+05-10-2026|food|breakfast at railway station|180
+05-10-2026|travel|train ticket from bangalore to chennai|850
+06-10-2026|food|lunch with friends at restaurant|750
+06-10-2026|bills|mobile phone recharge|599
+06-10-2026|shopping|purchased groceries|1850
+07-10-2026|travel|petrol for car|2500
+07-10-2026|food|dinner at family restaurant|950
+07-10-2026|entertainment|movie tickets for two people|600
+08-10-2026|food|morning breakfast|220
+08-10-2026|travel|office cab charges|480
+08-10-2026|shopping|purchased shoes|2200
+09-10-2026|food|lunch at canteen|180
+09-10-2026|bills|electricity bill payment|2450
+09-10-2026|travel|bus ticket to office|120
+10-10-2026|food|breakfast and tea|160
+10-10-2026|shopping|purchased household items|1350
+10-10-2026|health|doctor consultation|700
+11-10-2026|food|dinner ordered online|520
+11-10-2026|travel|petrol for bike|600
+11-10-2026|bills|internet bill payment|999
+12-10-2026|food|lunch at hotel|480
+12-10-2026|shopping|purchased new backpack|1600
+13-10-2026|travel|cab to railway station|420
+13-10-2026|food|snacks and coffee|210
+13-10-2026|entertainment|family outing|1200
+14-10-2026|bills|water bill payment|350
+14-10-2026|food|dinner with colleagues|850
+15-10-2026|travel|car service and fuel|3200
+15-10-2026|shopping|purchased groceries from supermarket|2100
+16-10-2026|food|breakfast at restaurant|300
+16-10-2026|health|purchased medicines|850
+17-10-2026|travel|auto fare for office travel|250
+17-10-2026|food|lunch at restaurant|650
+18-10-2026|shopping|purchased headphones|1800
+18-10-2026|bills|gas cylinder booking|1150
+19-10-2026|food|dinner at home ordered online|480
+19-10-2026|travel|petrol for car|1800
+20-10-2026|education|purchased programming books|1450
+20-10-2026|food|lunch with students|550
+21-10-2026|shopping|purchased clothes|2800
+21-10-2026|travel|cab for business meeting|900
+22-10-2026|entertainment|family restaurant and outing|1750
+22-10-2026|food|breakfast and coffee|280
